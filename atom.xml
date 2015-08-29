@@ -3,21 +3,21 @@ layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Rasmus Andersson</title>
+    <title>MehrdadLinux</title>
   <link href="http://Opsnit.com/atom.xml" rel="self"/>
   <link href="http://Opsnit.com/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://rsms.me/</id>
+  <id>http://Opsnit.com/</id>
   <author>
-    <name>Rasmus Andersson</name>
-    <email>rasmus@notion.se</email>
+      <name>MehrdadLinux</name></name>
+  <email>MehrdadLinux@gmail.com</email>
   </author>
   {% for post in site.posts limit:10 %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="http://Opsnit.com{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>http://rsms.me{{ post.id }}</id>
+    <id>http://Opsnit.com/</id>{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
     <author>
       <name>MehrdadLinux</name>
