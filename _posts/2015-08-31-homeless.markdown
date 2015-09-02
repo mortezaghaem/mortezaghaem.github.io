@@ -2,6 +2,8 @@
 layout: post
 title: "homeless"
 date: "2015-08-31"
+comments: true
+
 ---
 Many homeless people roam our streets today—not because
 they want to—but
@@ -15,4 +17,3 @@ Many homeless people are considered a nuisance, especially by those who are not 
 When some of us see a homeless person dressed as this person in the video, our usual initial reaction is to move away.
 They are people too, they just don’t have the means to feed and support themselves at the moment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PHUoZt6VBWY" frameborder="0" allowfullscreen></iframe>
