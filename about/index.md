@@ -6,7 +6,7 @@ title: About
 
 <img src="portrait.jpg" width="50%" align="right">
 
-Hello. My name is Mehrdad Abbasi (pronounced as [MEH-RDaa-D ;2 syll. meh-(r)dad, me-hrd-ad )""] in English and written as: "مهرداد عباسی" in Persian). . I'm a Security Researcher living in Iran with a passion for art and technology, who have worked with a number of different companies since the 2008, including
+Hello. My name is Morteza Ghaem (pronounced as [MEH-RDaa-D ;2 syll. meh-(r)dad, me-hrd-ad )""] in English and written as: "مهرداد عباسی" in Persian). . I'm a Security Researcher living in Iran with a passion for art and technology, who have worked with a number of different companies since the 2008, including
 [Mojsazan](https://www.Mojsazan.com),
 [Pardazeshgaran](https://Pardazeshgaran.com),
 [Cvak](https://www.Cvak.com/)
